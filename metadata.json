@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Web Agency",
+  "description": "Premium web development agency building high-performance websites, SaaS products, dashboards, and custom web applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
