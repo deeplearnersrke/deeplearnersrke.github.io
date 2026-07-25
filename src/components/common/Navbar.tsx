@@ -81,7 +81,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenQuoteModal }) => {
             </div>
             <div className="flex flex-col">
               <span className="text-xl font-bold tracking-tight text-white flex items-center gap-1.5 light:text-slate-900">
-                NEXUS <span className="text-xs font-semibold px-2 py-0.5 rounded-full bg-blue-500/10 text-blue-400 border border-blue-500/20">STUDIO</span>
+                Deep  <span className="text-xs font-semibold px-2 py-0.5 rounded-full bg-blue-500/10 text-blue-400 border border-blue-500/20">Learners</span>
               </span>
             </div>
           </a>

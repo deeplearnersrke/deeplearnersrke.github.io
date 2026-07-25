@@ -16,7 +16,7 @@ export const Testimonials: React.FC = () => {
             Trusted by Industry Innovators
           </h2>
           <p className="text-base sm:text-lg text-zinc-400 light:text-slate-600">
-            See what founders, CTOs, and product directors say about working with Nexus Web Studio.
+            See what founders, CTOs, and product directors say about working with Deep Learners Web Studio.
           </p>
         </div>
 

@@ -22,7 +22,7 @@ export const Footer: React.FC = () => {
                 </div>
               </div>
               <span className="text-xl font-bold tracking-tight text-white">
-                NEXUS STUDIO
+               Deep Learners Roorkee
               </span>
             </a>
 
@@ -83,7 +83,7 @@ export const Footer: React.FC = () => {
         {/* Bottom Bar */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs">
           <div>
-            © {new Date().getFullYear()} Nexus Web Agency. Built with React 19, TypeScript & Tailwind CSS. All rights reserved.
+            © {new Date().getFullYear()} Deep Learners Web Agency. Built with React 19, TypeScript & Tailwind CSS. All rights reserved.
           </div>
 
           <div className="flex items-center gap-4">

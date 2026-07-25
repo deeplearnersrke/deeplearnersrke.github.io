@@ -61,7 +61,7 @@ export const BlogArticleModal: React.FC<BlogArticleModalProps> = ({ post, onClos
           </p>
           <p>{post.content}</p>
           <p>
-            At Nexus Studio, we enforce sub-second time-to-first-byte (TTFB) and zero layout shifts (CLS) across every web application we build. Leveraging modular component architectures, React 19 server transitions, and edge CDN deployments ensures your users experience zero lag regardless of global geographic location.
+            At Deep Learners , we enforce sub-second time-to-first-byte (TTFB) and zero layout shifts (CLS) across every web application we build. Leveraging modular component architectures, React 19 server transitions, and edge CDN deployments ensures your users experience zero lag regardless of global geographic location.
           </p>
           <p>
             Ready to elevate your engineering standards? Schedule a free consultation with our architecture team today.
@@ -69,7 +69,7 @@ export const BlogArticleModal: React.FC<BlogArticleModalProps> = ({ post, onClos
         </div>
 
         <div className="pt-6 mt-8 border-t border-zinc-800 flex items-center justify-between text-xs text-zinc-400 light:border-zinc-200">
-          <span>Published by Nexus Web Studio Engineering Insights</span>
+          <span>Published by Deep Learners Web Studio Engineering Insights</span>
           <button
             onClick={onClose}
             className="px-4 py-2 rounded-xl bg-zinc-900 border border-zinc-800 text-white hover:bg-zinc-800 flex items-center gap-1.5 cursor-pointer light:bg-slate-100 light:border-zinc-300 light:text-slate-800"
